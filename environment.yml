@@ -1,0 +1,14 @@
+name: finance
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas=2.1.4
+  - matplotlib=3.8.2
+  - seaborn=0.13.0
+  - mysql-connector-python=8.2.0
+  - tk=8.6.12
+  - pip
+  - pip:
+    - configparser==6.0.0 
