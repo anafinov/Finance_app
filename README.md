@@ -48,7 +48,6 @@ python Scripts/main.py
 - Настраиваемый интерфейс
 
 ## Структура проекта
-
 ```
 Work/
   ├── Data/          # SQL-скрипты и данные
@@ -64,7 +63,3 @@ Work/
 ```bash
 conda env update -f environment.yml
 ```
-
-## Лицензия
-
-MIT 
