@@ -12,7 +12,6 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <repository-url>
-cd finance-tracker
 ```
 
 2. Создайте и активируйте conda-окружение:
